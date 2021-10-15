@@ -1,0 +1,13 @@
+F:\visualcode\Inheritance2\bin\Debug\netcoreapp3.1\Inheritance2.exe
+F:\visualcode\Inheritance2\bin\Debug\netcoreapp3.1\Inheritance2.deps.json
+F:\visualcode\Inheritance2\bin\Debug\netcoreapp3.1\Inheritance2.runtimeconfig.json
+F:\visualcode\Inheritance2\bin\Debug\netcoreapp3.1\Inheritance2.runtimeconfig.dev.json
+F:\visualcode\Inheritance2\bin\Debug\netcoreapp3.1\Inheritance2.dll
+F:\visualcode\Inheritance2\bin\Debug\netcoreapp3.1\Inheritance2.pdb
+F:\visualcode\Inheritance2\obj\Debug\netcoreapp3.1\Inheritance2.csprojAssemblyReference.cache
+F:\visualcode\Inheritance2\obj\Debug\netcoreapp3.1\Inheritance2.AssemblyInfoInputs.cache
+F:\visualcode\Inheritance2\obj\Debug\netcoreapp3.1\Inheritance2.AssemblyInfo.cs
+F:\visualcode\Inheritance2\obj\Debug\netcoreapp3.1\Inheritance2.csproj.CoreCompileInputs.cache
+F:\visualcode\Inheritance2\obj\Debug\netcoreapp3.1\Inheritance2.dll
+F:\visualcode\Inheritance2\obj\Debug\netcoreapp3.1\Inheritance2.pdb
+F:\visualcode\Inheritance2\obj\Debug\netcoreapp3.1\Inheritance2.genruntimeconfig.cache

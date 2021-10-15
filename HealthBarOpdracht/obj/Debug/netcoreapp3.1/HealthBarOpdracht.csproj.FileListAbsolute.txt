@@ -1,0 +1,13 @@
+F:\visualcode\HealthBarOpdracht\bin\Debug\netcoreapp3.1\HealthBarOpdracht.exe
+F:\visualcode\HealthBarOpdracht\bin\Debug\netcoreapp3.1\HealthBarOpdracht.deps.json
+F:\visualcode\HealthBarOpdracht\bin\Debug\netcoreapp3.1\HealthBarOpdracht.runtimeconfig.json
+F:\visualcode\HealthBarOpdracht\bin\Debug\netcoreapp3.1\HealthBarOpdracht.runtimeconfig.dev.json
+F:\visualcode\HealthBarOpdracht\bin\Debug\netcoreapp3.1\HealthBarOpdracht.dll
+F:\visualcode\HealthBarOpdracht\bin\Debug\netcoreapp3.1\HealthBarOpdracht.pdb
+F:\visualcode\HealthBarOpdracht\obj\Debug\netcoreapp3.1\HealthBarOpdracht.csprojAssemblyReference.cache
+F:\visualcode\HealthBarOpdracht\obj\Debug\netcoreapp3.1\HealthBarOpdracht.AssemblyInfoInputs.cache
+F:\visualcode\HealthBarOpdracht\obj\Debug\netcoreapp3.1\HealthBarOpdracht.AssemblyInfo.cs
+F:\visualcode\HealthBarOpdracht\obj\Debug\netcoreapp3.1\HealthBarOpdracht.csproj.CoreCompileInputs.cache
+F:\visualcode\HealthBarOpdracht\obj\Debug\netcoreapp3.1\HealthBarOpdracht.dll
+F:\visualcode\HealthBarOpdracht\obj\Debug\netcoreapp3.1\HealthBarOpdracht.pdb
+F:\visualcode\HealthBarOpdracht\obj\Debug\netcoreapp3.1\HealthBarOpdracht.genruntimeconfig.cache
