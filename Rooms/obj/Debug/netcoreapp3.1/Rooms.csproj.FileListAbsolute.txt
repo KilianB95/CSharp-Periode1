@@ -1,0 +1,13 @@
+F:\visualcode\Rooms\bin\Debug\netcoreapp3.1\Rooms.exe
+F:\visualcode\Rooms\bin\Debug\netcoreapp3.1\Rooms.deps.json
+F:\visualcode\Rooms\bin\Debug\netcoreapp3.1\Rooms.runtimeconfig.json
+F:\visualcode\Rooms\bin\Debug\netcoreapp3.1\Rooms.runtimeconfig.dev.json
+F:\visualcode\Rooms\bin\Debug\netcoreapp3.1\Rooms.dll
+F:\visualcode\Rooms\bin\Debug\netcoreapp3.1\Rooms.pdb
+F:\visualcode\Rooms\obj\Debug\netcoreapp3.1\Rooms.csprojAssemblyReference.cache
+F:\visualcode\Rooms\obj\Debug\netcoreapp3.1\Rooms.AssemblyInfoInputs.cache
+F:\visualcode\Rooms\obj\Debug\netcoreapp3.1\Rooms.AssemblyInfo.cs
+F:\visualcode\Rooms\obj\Debug\netcoreapp3.1\Rooms.csproj.CoreCompileInputs.cache
+F:\visualcode\Rooms\obj\Debug\netcoreapp3.1\Rooms.dll
+F:\visualcode\Rooms\obj\Debug\netcoreapp3.1\Rooms.pdb
+F:\visualcode\Rooms\obj\Debug\netcoreapp3.1\Rooms.genruntimeconfig.cache
