@@ -1,0 +1,13 @@
+F:\visualcode\CSharp-Periode1\Debuggen\bin\Debug\netcoreapp3.1\Debuggen.exe
+F:\visualcode\CSharp-Periode1\Debuggen\bin\Debug\netcoreapp3.1\Debuggen.deps.json
+F:\visualcode\CSharp-Periode1\Debuggen\bin\Debug\netcoreapp3.1\Debuggen.runtimeconfig.json
+F:\visualcode\CSharp-Periode1\Debuggen\bin\Debug\netcoreapp3.1\Debuggen.runtimeconfig.dev.json
+F:\visualcode\CSharp-Periode1\Debuggen\bin\Debug\netcoreapp3.1\Debuggen.dll
+F:\visualcode\CSharp-Periode1\Debuggen\bin\Debug\netcoreapp3.1\Debuggen.pdb
+F:\visualcode\CSharp-Periode1\Debuggen\obj\Debug\netcoreapp3.1\Debuggen.csprojAssemblyReference.cache
+F:\visualcode\CSharp-Periode1\Debuggen\obj\Debug\netcoreapp3.1\Debuggen.AssemblyInfoInputs.cache
+F:\visualcode\CSharp-Periode1\Debuggen\obj\Debug\netcoreapp3.1\Debuggen.AssemblyInfo.cs
+F:\visualcode\CSharp-Periode1\Debuggen\obj\Debug\netcoreapp3.1\Debuggen.csproj.CoreCompileInputs.cache
+F:\visualcode\CSharp-Periode1\Debuggen\obj\Debug\netcoreapp3.1\Debuggen.dll
+F:\visualcode\CSharp-Periode1\Debuggen\obj\Debug\netcoreapp3.1\Debuggen.pdb
+F:\visualcode\CSharp-Periode1\Debuggen\obj\Debug\netcoreapp3.1\Debuggen.genruntimeconfig.cache
